@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "channel.h": "c",
+        "vm.h": "c"
+    }
+}
