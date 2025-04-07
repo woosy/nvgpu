@@ -1,0 +1,1 @@
+cmd_/home/orin-test/Linux_for_Tegra/source/nvgpu/drivers/gpu/nvgpu/nvgpu.o := ld -EL  -maarch64elf -z noexecstack   -r -o /home/orin-test/Linux_for_Tegra/source/nvgpu/drivers/gpu/nvgpu/nvgpu.o @/home/orin-test/Linux_for_Tegra/source/nvgpu/drivers/gpu/nvgpu/nvgpu.mod

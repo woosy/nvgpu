@@ -1,0 +1,1 @@
+cmd_/home/orin-test/Linux_for_Tegra/source/nvgpu/drivers/gpu/nvgpu/modules.order := {   echo /home/orin-test/Linux_for_Tegra/source/nvgpu/drivers/gpu/nvgpu/nvgpu.ko; :; } | awk '!x[$$0]++' - > /home/orin-test/Linux_for_Tegra/source/nvgpu/drivers/gpu/nvgpu/modules.order
